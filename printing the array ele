@@ -1,0 +1,23 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    char txt[100];
+    string ttt = "hellwo brother";
+    int num ;
+    cout << "enter the how manu nuber " ;
+    cin >> num;
+    for(int i = 0 ; i < num ; i++)
+    {
+        cout << "Entert the strings one by one" << endl;
+        cin >> txt[i];
+    }
+    
+    for(int i =0 ; i< num ; i++)
+    {
+        cout << txt[i];
+    }
+}
