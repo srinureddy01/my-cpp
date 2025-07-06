@@ -1,0 +1,19 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+    struct
+    {
+        int age;
+        string name;
+    }mystruct;
+    
+    cout<<"enter the name: ";
+    cin >> mystruct.name;
+    cout << "Enter the age: ";
+    cin >> mystruct.age;
+    
+    cout<<"The name of the candidate: "<< mystruct.name<<" and the age "<<mystruct.age;
+}
