@@ -1,9 +1,6 @@
-# Cheat-codes
-
-This folder contains C++ code examples for chat discussions.
+# C++ Cheat Codes
 
 ## Iteration Examples
-- [_iteration.cpp](_itreation.cpp)
+For iteration, use this file:
 
-## Usage
-Open the file above to see iteration code examples.
+- [Itreation.cpp](Itreation.cpp)
