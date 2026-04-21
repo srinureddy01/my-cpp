@@ -1,6 +1,9 @@
-# C++ Cheat Codes
+# Cheat Codes - C++ Quick Reference
 
-## Iteration Examples
-For iteration, use this file:
+Quick C++ code snippets for common operations.
 
-- [Itreation.cpp](Itreation.cpp)
+## Iteration
+-For or iterator: [Itreation.cpp](Itreation.cpp)  
+
+## Usage
+Click the links above to view complete working code examples.
