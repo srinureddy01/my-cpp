@@ -1,6 +1,5 @@
 # Data Structures
 
-## Files & Folders
-- [Vector example](Sequence containers/Vector-initialize.cpp)
-- [Sequence containers folder](Sequence containers/)
-- [Back to repo root](../)  
+## Files (Pick one method)
+- Angle brackets: [Vector](<Sequence containers/Vector-initialize.cpp>)
+- Or rename folder first: [Vector](Sequence-containers/Vector-initialize.cpp)
