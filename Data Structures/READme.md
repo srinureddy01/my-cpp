@@ -1,2 +1,2 @@
 ## FILES
-[vector-initialize.cpp](secqunce containers/Vector-initialize.cpp)
+[vector-initialize.cpp](sequence containers/Vector-initialize.cpp)
