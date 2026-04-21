@@ -1,3 +1,9 @@
-#CHEAT-CODES
+# Cheat-codes
 
-- For loop OR iterator:  [FOR OR ITERATOR](<itreation.cpp>)
+This folder contains C++ code examples for chat discussions.
+
+## Iteration Examples
+- [_iteration.cpp](_itreation.cpp)
+
+## Usage
+Open the file above to see iteration code examples.
