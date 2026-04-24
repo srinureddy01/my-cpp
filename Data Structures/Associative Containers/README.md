@@ -4,7 +4,7 @@ This repository contains examples and documentation for using **Associative Cont
 
 ---
 
-## 🚀 Overview
+## Overview
 Associative containers store elements in **key-value pairs**. Unlike vectors, elements are retrieved by their **key** rather than their position.
 
 ### Key Features
@@ -14,7 +14,7 @@ Associative containers store elements in **key-value pairs**. Unlike vectors, el
 
 ---
 
-## 🛠️ Basic Syntax
+##  Basic Syntax
 
 ### Initialization
 ```cpp
@@ -44,7 +44,7 @@ std::map<std::string, int> ages = {
 
 ---
 
-## 🔄 Printing Data (Looping)
+##  Printing Data (Looping)
 
 ### Using Iterators (Standard)
 ```cpp
@@ -64,7 +64,7 @@ for (const auto& [name, age] : ages) {
 
 ---
 
-## ⚠️ Important Considerations
+##  Important Considerations
 
 ### 1. The `[]` Side Effect
 Using the `[]` operator to look up a key that **doesn't exist** will automatically create it with a default value (e.g., `0` for integers). Use `find()` to avoid this.
@@ -75,7 +75,7 @@ Using the `[]` operator to look up a key that **doesn't exist** will automatical
 
 ---
 
-## 💻 Full Implementation Example
+##  Full Implementation Example
 ```cpp
 #include <iostream>
 #include <map>
