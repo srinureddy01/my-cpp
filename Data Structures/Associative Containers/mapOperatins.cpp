@@ -9,7 +9,7 @@ int main() {
 
     // 1. Size of map
     cout << "Size: " << myMap.size() << endl; 
-
+ 
     // 2. Is it empty? (0 for No, 1 for Yes)
     cout << "Is empty: " << myMap.empty() << endl;
 
